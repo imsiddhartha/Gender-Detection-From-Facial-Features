@@ -7,6 +7,7 @@ First,We tried to identify gender from facial features, we are often curious abo
 We also use coloured (RGB) and B/W versions of the givenimages.Colour images have been compressed to 140x140 pixels and B/W to 64x48 pixels.
 
 In this project, the following methods were used for classification:
+
 1.Eigenface Method
 First I have applied Principle Component Analysis (PCA) to reduce the dimensionality.Then the eigen matrix returned by pca method is used for finding Eigenfaces for training data.
 Now,for each image in test dataset,first calculate its eigenfaces matrix and then apply 1-NN algorithm to classify the image.
