@@ -1,0 +1,151 @@
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/bw/jpg5/
+Size of image (48, 48)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 2304)
+369 (200, 2304)
+Done
+181 170
+15 166 169 182
+Accuracy: 0.51566951567
+Men Accuracy: 0.0887573964497
+Female Accuracy: 0.912087912088
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/bw/jpg4/
+Size of image (48, 48)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 2304)
+369 (200, 2304)
+Done
+161 190
+49 112 169 182
+Accuracy: 0.458689458689
+Men Accuracy: 0.289940828402
+Female Accuracy: 0.615384615385
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/bw/jpg3/
+Size of image (48, 48)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 2304)
+369 (200, 2304)
+Done
+169 182
+164 5 169 182
+Accuracy: 0.481481481481
+Men Accuracy: 0.970414201183
+Female Accuracy: 0.0274725274725
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/bw/jpg4/
+Size of image (48, 48)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 2304)
+369 (200, 2304)
+Done
+167 184
+119 48 169 182
+Accuracy: 0.475783475783
+Men Accuracy: 0.704142011834
+Female Accuracy: 0.263736263736
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/bw/jpg5/
+Size of image (48, 48)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 2304)
+369 (200, 2304)
+Done
+185 166
+14 171 169 182
+Accuracy: 0.527065527066
+Men Accuracy: 0.0828402366864
+Female Accuracy: 0.93956043956
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/colored/jpg5/
+Size of image (140, 140)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 19600)
+369 (200, 19600)
+Done
+185 166
+88 97 169 182
+Accuracy: 0.527065527066
+Men Accuracy: 0.520710059172
+Female Accuracy: 0.532967032967
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/colored/jpg4/
+Size of image (140, 140)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 19600)
+369 (200, 19600)
+Done
+170 181
+169 1 169 182
+Accuracy: 0.48433048433
+Men Accuracy: 1.0
+Female Accuracy: 0.00549450549451
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/colored/jpg3/
+Size of image (140, 140)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 19600)
+369 (200, 19600)
+Done
+183 168
+10 173 169 182
+Accuracy: 0.521367521368
+Men Accuracy: 0.0591715976331
+Female Accuracy: 0.950549450549
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/colored/jpg2/
+Size of image (140, 140)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 19600)
+369 (200, 19600)
+Done
+189 162
+23 166 169 182
+Accuracy: 0.538461538462
+Men Accuracy: 0.136094674556
+Female Accuracy: 0.912087912088
+siddharth@siddharth-Inspiron-3542:~/Downloads/IIIT/SEM2/SMAI/Project$ python kmeans.py 
+aligneddataset/colored/jpg1/
+Size of image (140, 140)
+Total,Males,Females 751 369 382
+Total,Males,Females in training data 400 200 200
+Total,Males,Females in test data 351 169 182
+Called
+382 (200, 19600)
+369 (200, 19600)
+Done
+182 169
+0 182 169 182
+Accuracy: 0.518518518519
+Men Accuracy: 0.0
+Female Accuracy: 1.0
+
