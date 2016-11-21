@@ -71,7 +71,7 @@ np.save("eigmat1.txt",eigenmatrix)				#saving eigen values for backup
 #print "Eigen Matrix",eigenmatrix.shape			#Eigen Matrix of size==k X size[0]*size[1]
 
 eigenfaces=eigenmatrix*m					#eigenfaces=eigenmatrix*mean of data
-	
+#print eigenfaces.shape	
 wttraining=np.dot(eigenfaces,data.transpose()).transpose()			#sizze of weight for trainging data == SIZE(training X k)
 
 #print wttraining.shape
