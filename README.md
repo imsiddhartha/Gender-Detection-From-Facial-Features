@@ -14,6 +14,7 @@ First I have applied Principle Component Analysis (PCA) to reduce the dimensiona
 Now,for each image in test dataset,first calculate its eigenfaces matrix and then apply 1-NN algorithm to classify the image.
 
 Details for Eigenface method: http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#algorithmic-description
+
 2.K-means:
 
 I have applied K-means directly on the pixel data.From these,I got 10 clusters for female faces and 10 for male faces. Now, call these the 10 most representative female and male faces.Now, run the K Nearest Neighbours algorithm to classify the test images.Here K was chosen to be 5.
